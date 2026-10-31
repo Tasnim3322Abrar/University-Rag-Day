@@ -1,0 +1,123 @@
+{
+  "event": {
+    "title": "RAG DAY 2026",
+    "tagline": "Rejoice • Assemble • Groove",
+    "subtitle": "The biggest celebration of the year of CSE at University of Asia Pacific",
+    "date_time": "2026-11-10T09:00:00",
+    "date_display": "Sunday,  10 November 2026",
+    "venue": "UAP Campus, 74/B Green Road, Dhanmondi, Dhaka-1205",
+    "about": "RAG Day is the biggest celebration of the year at University of Asia Pacific — a day when classes pause, the campus turns into a festival ground, and students from every department come together for music, games, food and unforgettable memories.",
+    "email": "tasnimabrar2000@gamil.com",
+    "facebook": "https://facebook.com",
+    "instagram": "https://instagram.com"
+  },
+  "stats": [
+    {
+      "label": "Participants",
+      "value": 0
+    },
+    {
+      "label": "Departments",
+      "value": 1
+    },
+    {
+      "label": "Events & Programs",
+      "value": 5
+    },
+    {
+      "label": "Food Stalls",
+      "value": 1
+    }
+  ],
+  "schedule": [
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "title": "Opening Ceremony",
+      "desc": "National anthem, flag hoisting and welcome speech by the Vice Chancellor.",
+      "icon": "🎤"
+    },
+    {
+      "start": "10:00",
+      "end": "12:00",
+      "title": "Campus Rally & Banner Parade",
+      "desc": "Students march across the campus with departmental banners and colorful face paint.",
+      "icon": "🚩"
+    },
+    {
+      "start": "12:00",
+      "end": "14:00",
+      "title": "Cultural Show & Music",
+      "desc": "Band performances, dance, drama and singing competitions on the main stage.",
+      "icon": "🎵"
+    },
+    {
+      "start": "14:00",
+      "end": "15:00",
+      "title": "Food Festival",
+      "desc": "Departmental food stalls — biryani, fuchka, chotpoti, jhalmuri and much more.",
+      "icon": "🍛"
+    },
+    {
+      "start": "15:00",
+      "end": "17:00",
+      "title": "Games & Sports",
+      "desc": "Tug of war, cricket, sack race, 3-legged race and inter-department battles.",
+      "icon": "⚽"
+    },
+    {
+      "start": "17:00",
+      "end": "19:00",
+      "title": "Grand Concert & DJ Floor",
+      "desc": "Guest band performance, then the DJ floor opens for everyone.",
+      "icon": "🎧"
+    },
+    {
+      "start": "19:00",
+      "end": "20:30",
+      "title": "Prize Giving & Closing",
+      "desc": "Winners announced, department group photos, and the official end of RAG Day.",
+      "icon": "🏆"
+    }
+  ],
+  "programs": [
+    {
+      "title": "Inter-Department Battle of the Bands",
+      "desc": "Top campus bands compete for the RAG trophy on the main stage.",
+      "icon": "🎸"
+    },
+    {
+      "title": "Face Painting & T-Shirt Stalls",
+      "desc": "Get your department logo painted and grab the official RAG Day tee.",
+      "icon": "🎨"
+    },
+    {
+      "title": "Photo Booth & Memory Wall",
+      "desc": "Themed photo corners and a giant wall to leave messages for friends.",
+      "icon": "📸"
+    },
+    {
+      "title": "Gaming & E-Sports Zone",
+      "desc": "FIFA, PUBG and chess tournaments with instant prizes.",
+      "icon": "🎮"
+    },
+    {
+      "title": "Cultural Dance & Drama",
+      "desc": "Traditional and modern performances by UAP cultural clubs.",
+      "icon": "💃"
+    },
+    {
+      "title": "DJ Night Warm-up",
+      "desc": "The campus lights go down and the DJ takes over till closing.",
+      "icon": "🔊"
+    }
+  ],
+  "rules": [
+    "Wear your UAP student ID card at all times inside the campus.",
+    "Respect every participant — no harassment of any kind will be tolerated.",
+    "Keep the campus clean; use the provided dustbins.",
+    "Outside guests are allowed only with a valid guest pass.",
+    "Follow the instructions of volunteers and security teams.",
+    "No political banners or slogans are allowed on RAG Day."
+  ]
+}
